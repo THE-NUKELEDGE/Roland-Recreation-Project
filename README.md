@@ -4,7 +4,7 @@
 | Drum Machines        | Implemented           | In Development  |
 | ------------- |:-------------:| -----:|
 | Boss DR-55      | No | Yes |
-| Boss DR-110      | No      |   No |
+| Boss DR-110      | No      | No |
 | Boss DR-202 | No      |    No |
 | Boss DR-220a | No      |    No |
 | Boss DR-220e | No      |    No |
